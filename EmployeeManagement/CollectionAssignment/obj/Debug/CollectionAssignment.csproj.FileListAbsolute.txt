@@ -1,0 +1,7 @@
+D:\.netALl\EmployeeManagement\CollectionAssignment\obj\Debug\CollectionAssignment.csproj.AssemblyReference.cache
+D:\.netALl\EmployeeManagement\CollectionAssignment\obj\Debug\CollectionAssignment.csproj.CoreCompileInputs.cache
+D:\.netALl\EmployeeManagement\CollectionAssignment\bin\Debug\CollectionAssignment.exe.config
+D:\.netALl\EmployeeManagement\CollectionAssignment\bin\Debug\CollectionAssignment.exe
+D:\.netALl\EmployeeManagement\CollectionAssignment\bin\Debug\CollectionAssignment.pdb
+D:\.netALl\EmployeeManagement\CollectionAssignment\obj\Debug\CollectionAssignment.exe
+D:\.netALl\EmployeeManagement\CollectionAssignment\obj\Debug\CollectionAssignment.pdb

@@ -1,0 +1,7 @@
+D:\.netALl\PracticeProgram\PracticeProgram\bin\Debug\PracticeProgram.exe.config
+D:\.netALl\PracticeProgram\PracticeProgram\bin\Debug\PracticeProgram.exe
+D:\.netALl\PracticeProgram\PracticeProgram\bin\Debug\PracticeProgram.pdb
+D:\.netALl\PracticeProgram\PracticeProgram\obj\Debug\PracticeProgram.csproj.AssemblyReference.cache
+D:\.netALl\PracticeProgram\PracticeProgram\obj\Debug\PracticeProgram.csproj.CoreCompileInputs.cache
+D:\.netALl\PracticeProgram\PracticeProgram\obj\Debug\PracticeProgram.exe
+D:\.netALl\PracticeProgram\PracticeProgram\obj\Debug\PracticeProgram.pdb

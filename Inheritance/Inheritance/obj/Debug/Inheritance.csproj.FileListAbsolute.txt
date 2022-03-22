@@ -1,0 +1,7 @@
+D:\.netALl\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\.netALl\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\.netALl\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\.netALl\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\.netALl\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\.netALl\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\.netALl\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

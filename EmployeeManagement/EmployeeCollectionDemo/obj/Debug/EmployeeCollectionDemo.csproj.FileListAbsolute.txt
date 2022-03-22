@@ -1,0 +1,7 @@
+D:\.netALl\EmployeeManagement\EmployeeCollectionDemo\bin\Debug\EmployeeCollectionDemo.exe.config
+D:\.netALl\EmployeeManagement\EmployeeCollectionDemo\bin\Debug\EmployeeCollectionDemo.exe
+D:\.netALl\EmployeeManagement\EmployeeCollectionDemo\bin\Debug\EmployeeCollectionDemo.pdb
+D:\.netALl\EmployeeManagement\EmployeeCollectionDemo\obj\Debug\EmployeeCollectionDemo.csproj.AssemblyReference.cache
+D:\.netALl\EmployeeManagement\EmployeeCollectionDemo\obj\Debug\EmployeeCollectionDemo.csproj.CoreCompileInputs.cache
+D:\.netALl\EmployeeManagement\EmployeeCollectionDemo\obj\Debug\EmployeeCollectionDemo.exe
+D:\.netALl\EmployeeManagement\EmployeeCollectionDemo\obj\Debug\EmployeeCollectionDemo.pdb

@@ -1,0 +1,6 @@
+D:\.netALl\ConsoleApp1\DLLTest\bin\Debug\DLLTest.dll
+D:\.netALl\ConsoleApp1\DLLTest\bin\Debug\DLLTest.pdb
+D:\.netALl\ConsoleApp1\DLLTest\obj\Debug\DLLTest.csproj.AssemblyReference.cache
+D:\.netALl\ConsoleApp1\DLLTest\obj\Debug\DLLTest.csproj.CoreCompileInputs.cache
+D:\.netALl\ConsoleApp1\DLLTest\obj\Debug\DLLTest.dll
+D:\.netALl\ConsoleApp1\DLLTest\obj\Debug\DLLTest.pdb

@@ -1,0 +1,6 @@
+D:\.netALl\Assinment2\EmployeeManagement\bin\Debug\EmployeeManagement.dll
+D:\.netALl\Assinment2\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+D:\.netALl\Assinment2\EmployeeManagement\obj\Debug\LitwareLib.csproj.AssemblyReference.cache
+D:\.netALl\Assinment2\EmployeeManagement\obj\Debug\LitwareLib.csproj.CoreCompileInputs.cache
+D:\.netALl\Assinment2\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+D:\.netALl\Assinment2\EmployeeManagement\obj\Debug\EmployeeManagement.pdb

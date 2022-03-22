@@ -1,0 +1,5 @@
+D:\.netALl\ConsoleApp3\ClassConsoleLib\bin\Debug\ClassConsoleLib.dll
+D:\.netALl\ConsoleApp3\ClassConsoleLib\bin\Debug\ClassConsoleLib.pdb
+D:\.netALl\ConsoleApp3\ClassConsoleLib\obj\Debug\ClassConsoleLib.csproj.CoreCompileInputs.cache
+D:\.netALl\ConsoleApp3\ClassConsoleLib\obj\Debug\ClassConsoleLib.dll
+D:\.netALl\ConsoleApp3\ClassConsoleLib\obj\Debug\ClassConsoleLib.pdb

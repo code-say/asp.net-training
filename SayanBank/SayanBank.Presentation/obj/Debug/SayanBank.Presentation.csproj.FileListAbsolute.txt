@@ -1,0 +1,7 @@
+D:\.netALl\SayanBank\SayanBank.Presentation\bin\Debug\SayanBank.Presentation.exe.config
+D:\.netALl\SayanBank\SayanBank.Presentation\bin\Debug\SayanBank.Presentation.exe
+D:\.netALl\SayanBank\SayanBank.Presentation\bin\Debug\SayanBank.Presentation.pdb
+D:\.netALl\SayanBank\SayanBank.Presentation\obj\Debug\SayanBank.Presentation.csproj.AssemblyReference.cache
+D:\.netALl\SayanBank\SayanBank.Presentation\obj\Debug\SayanBank.Presentation.csproj.CoreCompileInputs.cache
+D:\.netALl\SayanBank\SayanBank.Presentation\obj\Debug\SayanBank.Presentation.exe
+D:\.netALl\SayanBank\SayanBank.Presentation\obj\Debug\SayanBank.Presentation.pdb

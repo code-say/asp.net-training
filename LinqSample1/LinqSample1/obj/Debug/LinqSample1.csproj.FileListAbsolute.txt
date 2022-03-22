@@ -1,0 +1,7 @@
+D:\.netALl\LinqSample1\LinqSample1\bin\Debug\LinqSample1.exe.config
+D:\.netALl\LinqSample1\LinqSample1\bin\Debug\LinqSample1.exe
+D:\.netALl\LinqSample1\LinqSample1\bin\Debug\LinqSample1.pdb
+D:\.netALl\LinqSample1\LinqSample1\obj\Debug\LinqSample1.csproj.AssemblyReference.cache
+D:\.netALl\LinqSample1\LinqSample1\obj\Debug\LinqSample1.csproj.CoreCompileInputs.cache
+D:\.netALl\LinqSample1\LinqSample1\obj\Debug\LinqSample1.exe
+D:\.netALl\LinqSample1\LinqSample1\obj\Debug\LinqSample1.pdb

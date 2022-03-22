@@ -1,0 +1,10 @@
+D:\.netALl\Assinment2\Assinment2\obj\Debug\Assinment2.csproj.AssemblyReference.cache
+D:\.netALl\Assinment2\Assinment2\obj\Debug\Assinment2.csproj.CoreCompileInputs.cache
+D:\.netALl\Assinment2\Assinment2\bin\Debug\Assinment2.exe.config
+D:\.netALl\Assinment2\Assinment2\bin\Debug\Assinment2.exe
+D:\.netALl\Assinment2\Assinment2\bin\Debug\Assinment2.pdb
+D:\.netALl\Assinment2\Assinment2\bin\Debug\EmployeeManagement.dll
+D:\.netALl\Assinment2\Assinment2\bin\Debug\EmployeeManagement.pdb
+D:\.netALl\Assinment2\Assinment2\obj\Debug\Assinment2.csproj.CopyComplete
+D:\.netALl\Assinment2\Assinment2\obj\Debug\Assinment2.exe
+D:\.netALl\Assinment2\Assinment2\obj\Debug\Assinment2.pdb

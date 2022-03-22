@@ -1,0 +1,7 @@
+D:\.netALl\ArraysCollections\bin\Debug\ArraysCollections.exe.config
+D:\.netALl\ArraysCollections\bin\Debug\ArraysCollections.exe
+D:\.netALl\ArraysCollections\bin\Debug\ArraysCollections.pdb
+D:\.netALl\ArraysCollections\obj\Debug\ArraysCollections.csproj.AssemblyReference.cache
+D:\.netALl\ArraysCollections\obj\Debug\ArraysCollections.csproj.CoreCompileInputs.cache
+D:\.netALl\ArraysCollections\obj\Debug\ArraysCollections.exe
+D:\.netALl\ArraysCollections\obj\Debug\ArraysCollections.pdb

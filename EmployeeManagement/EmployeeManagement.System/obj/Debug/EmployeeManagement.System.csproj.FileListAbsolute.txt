@@ -1,0 +1,12 @@
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\bin\Debug\EmployeeManagement.System.exe.config
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\bin\Debug\EmployeeManagement.System.exe
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\bin\Debug\EmployeeManagement.System.pdb
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\bin\Debug\EmployeeManagement.dll
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\bin\Debug\EmployeeManagementLib.dll
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\bin\Debug\EmployeeManagementLib.pdb
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\bin\Debug\EmployeeManagement.pdb
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\obj\Debug\EmployeeManagement.System.csproj.AssemblyReference.cache
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\obj\Debug\EmployeeManagement.System.csproj.CoreCompileInputs.cache
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\obj\Debug\EmployeeManagement.System.csproj.CopyComplete
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\obj\Debug\EmployeeManagement.System.exe
+D:\.netALl\EmployeeManagement\EmployeeManagement.System\obj\Debug\EmployeeManagement.System.pdb

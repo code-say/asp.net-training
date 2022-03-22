@@ -1,0 +1,7 @@
+D:\.netALl\EmployeeManagement\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe.config
+D:\.netALl\EmployeeManagement\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe
+D:\.netALl\EmployeeManagement\FileHandlingDemo\bin\Debug\FileHandlingDemo.pdb
+D:\.netALl\EmployeeManagement\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.AssemblyReference.cache
+D:\.netALl\EmployeeManagement\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.CoreCompileInputs.cache
+D:\.netALl\EmployeeManagement\FileHandlingDemo\obj\Debug\FileHandlingDemo.exe
+D:\.netALl\EmployeeManagement\FileHandlingDemo\obj\Debug\FileHandlingDemo.pdb

@@ -1,0 +1,7 @@
+D:\.netALl\EmployeeManagement\BusDictionaryDemo\bin\Debug\BusDictionaryDemo.exe.config
+D:\.netALl\EmployeeManagement\BusDictionaryDemo\bin\Debug\BusDictionaryDemo.exe
+D:\.netALl\EmployeeManagement\BusDictionaryDemo\bin\Debug\BusDictionaryDemo.pdb
+D:\.netALl\EmployeeManagement\BusDictionaryDemo\obj\Debug\BusDictionaryDemo.csproj.AssemblyReference.cache
+D:\.netALl\EmployeeManagement\BusDictionaryDemo\obj\Debug\BusDictionaryDemo.csproj.CoreCompileInputs.cache
+D:\.netALl\EmployeeManagement\BusDictionaryDemo\obj\Debug\BusDictionaryDemo.exe
+D:\.netALl\EmployeeManagement\BusDictionaryDemo\obj\Debug\BusDictionaryDemo.pdb

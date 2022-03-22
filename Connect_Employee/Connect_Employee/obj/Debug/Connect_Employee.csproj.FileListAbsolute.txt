@@ -1,0 +1,7 @@
+D:\.netALl\Connect_Employee\Connect_Employee\bin\Debug\Connect_Employee.exe.config
+D:\.netALl\Connect_Employee\Connect_Employee\bin\Debug\Connect_Employee.exe
+D:\.netALl\Connect_Employee\Connect_Employee\bin\Debug\Connect_Employee.pdb
+D:\.netALl\Connect_Employee\Connect_Employee\obj\Debug\Connect_Employee.csproj.AssemblyReference.cache
+D:\.netALl\Connect_Employee\Connect_Employee\obj\Debug\Connect_Employee.csproj.CoreCompileInputs.cache
+D:\.netALl\Connect_Employee\Connect_Employee\obj\Debug\Connect_Employee.exe
+D:\.netALl\Connect_Employee\Connect_Employee\obj\Debug\Connect_Employee.pdb

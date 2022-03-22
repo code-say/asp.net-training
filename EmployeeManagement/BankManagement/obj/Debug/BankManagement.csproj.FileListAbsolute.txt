@@ -1,0 +1,7 @@
+D:\.netALl\EmployeeManagement\BankManagement\bin\Debug\BankManagement.exe.config
+D:\.netALl\EmployeeManagement\BankManagement\bin\Debug\BankManagement.exe
+D:\.netALl\EmployeeManagement\BankManagement\bin\Debug\BankManagement.pdb
+D:\.netALl\EmployeeManagement\BankManagement\obj\Debug\BankManagement.csproj.AssemblyReference.cache
+D:\.netALl\EmployeeManagement\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+D:\.netALl\EmployeeManagement\BankManagement\obj\Debug\BankManagement.exe
+D:\.netALl\EmployeeManagement\BankManagement\obj\Debug\BankManagement.pdb
